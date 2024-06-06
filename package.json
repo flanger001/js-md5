@@ -1,0 +1,15 @@
+{
+  "name": "md5js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-forge": "^1.2.1"
+  }
+}
